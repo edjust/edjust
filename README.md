@@ -1,10 +1,28 @@
 ### Hi there 👋
+#### About Edgar:
 
-I'm Edgar, a software developer located in Brazil. I'm a Node, React and React Native stack lover because of their constant growth, active communities and all the power of these technologies when they are combined. Currently my main focus is to work with backend and deep dive into microservices and systems scalability. 
+- Software Engineer specialist in Node.js;
+- 3+ years of experience working with software development with a focus on the backend;
+- Graduated in Computer Engineering;
+- Implements clean, readable, testable and scalable codes;
+- Always looks for ways to optimize workflows and improve team efficiency;
+- Experienced in working with databases, APIs, and backend frameworks;
+- Constantly seeks to stay up-to-date with the latest trends and technologies in the industry;
+- His main focus is to work with microservices and systems scalability of web apps;
+- Communicative, friendly and enjoys being part of a collaborative environment.
 
-So far my main skills includes: JavaScript, TypeScript, Node,js, ReactJS, React Native, NestJS, API Rest, Jest, TypeORM, PostgreSQL, Microsoft SQL Server, MySQL, MongoDB, Redis, Git, Docker and Kubernetes.
+#### Skills:
 
-![Banner](https://www.intelegain.com/wp-content/uploads/2019/08/1_OF0xEMkWBv-69zvmNs6RDQ.gif)
+- Backend: JavaScript, TypeScript, Node.js, Express, NestJS, API REST, Jest;
+- Frontend: HTML, CSS, JavaScript, JQuery, TypeScript, ReactJS, React Native, Styled Components and Tailwind CSS;
+- Databases: PostgreSQL, Microsoft SQL Server, MySQL, MongoDB and Redis;
+- Tools: TypeORM, Git, Docker and Kubernetes;
+- Has knowledge about the concepts of Software Architecture, Microservices, Clean Code, SOLID, DDD, TDD and Containers.
+
+<div align="center">
+ <a href="https://github.com/sampaiogabriel"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edjust&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 #### Connect with me
 
