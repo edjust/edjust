@@ -1,8 +1,10 @@
 ### Hi there 👋
 #### About Edgar:
 
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edjust&layout=compact&langs_count=7&theme=dracula"/>
+
 - Software Engineer specialist in Node.js;
-- 3+ years of experience working with software development with a focus on the backend;
+- 3+ years of experience working with software development focusing on the backend;
 - Graduated in Computer Engineering;
 - Implements clean, readable, testable and scalable codes;
 - Always looks for ways to optimize workflows and improve team efficiency;
@@ -15,11 +17,6 @@
 - Databases: PostgreSQL, Microsoft SQL Server, MySQL, MongoDB and Redis;
 - Tools: TypeORM, Git, Docker and Kubernetes;
 - Concepts: Software Architecture, Microservices, Clean Code, SOLID, DDD, TDD and Containers.
-
-<div align="center">
- <a href="https://github.com/sampaiogabriel"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edjust&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 #### Connect with me
 
