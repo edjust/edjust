@@ -6,10 +6,7 @@
 - Graduated in Computer Engineering;
 - Implements clean, readable, testable and scalable codes;
 - Always looks for ways to optimize workflows and improve team efficiency;
-- Experienced in working with databases, APIs, and backend frameworks;
-- Constantly seeks to stay up-to-date with the latest trends and technologies in the industry;
-- His main focus is to work with microservices and systems scalability of web apps;
-- Communicative, friendly and enjoys being part of a collaborative environment.
+- Experienced in working with databases, APIs, and backend frameworks.
 
 #### Skills:
 
@@ -17,7 +14,7 @@
 - Frontend: HTML, CSS, JavaScript, JQuery, TypeScript, ReactJS, React Native, Styled Components and Tailwind CSS;
 - Databases: PostgreSQL, Microsoft SQL Server, MySQL, MongoDB and Redis;
 - Tools: TypeORM, Git, Docker and Kubernetes;
-- Has knowledge about the concepts of Software Architecture, Microservices, Clean Code, SOLID, DDD, TDD and Containers.
+- Concepts: Software Architecture, Microservices, Clean Code, SOLID, DDD, TDD and Containers.
 
 <div align="center">
  <a href="https://github.com/sampaiogabriel"></a>
