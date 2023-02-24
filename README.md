@@ -12,10 +12,9 @@
 
 #### Skills:
 
-- Backend: JavaScript, TypeScript, Node.js, Express, NestJS, API REST, Jest;
+- Backend: JavaScript, TypeScript, Node.js, API REST, Express, NestJS, Jest, TypeORM, Docker and Kubernetes;
 - Frontend: HTML, CSS, JavaScript, JQuery, TypeScript, ReactJS, React Native, Styled Components and Tailwind CSS;
-- Databases: PostgreSQL, Microsoft SQL Server, MySQL, MongoDB and Redis;
-- Tools: TypeORM, Git, Docker and Kubernetes;
+- Databases: MySQL, Microsoft SQL Server, PostgreSQL, MongoDB and Redis;
 - Concepts: Software Architecture, Microservices, Clean Code, SOLID, DDD, TDD and Containers.
 
 #### Connect with me
